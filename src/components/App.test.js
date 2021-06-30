@@ -22,6 +22,9 @@ describe("App", () => {
       fireEvent.change(wrapper.getByLabelText("Second color"), {
         target: { value: "#abcdef" },
       });
+      fireEvent.change(wrapper.getByLabelText("Steps"), {
+        target: { value: "6" },
+      });
       fireEvent.click(wrapper.getByText("Draw"));
     });
 

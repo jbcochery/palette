@@ -5,11 +5,12 @@ import { generatePalette } from "../utils/palette";
 export default function App() {
   const [start, setStart] = useState("#ff0000");
   const [end, setEnd] = useState("#ffff00");
+  const [steps, setSteps] = useState(10);
   const [palette, setPalette] = useState(null);
 
   function onSubmit(event) {
     event.preventDefault();
-    setPalette(generatePalette(start, end, 10));
+    setPalette(generatePalette(start, end, steps));
   }
 
   return (
@@ -33,6 +34,15 @@ export default function App() {
               id="end"
               value={end}
               onChange={({ target: { value } }) => setEnd(value)}
+            />
+          </div>
+          <div>
+            <label htmlFor="steps">Steps</label>
+            <input
+              type="number"
+              id="steps"
+              value={steps}
+              onChange={({ target: { value } }) => setSteps(Number(value))}
             />
           </div>
           <button>Draw</button>
