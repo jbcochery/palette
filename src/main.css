@@ -15,6 +15,7 @@ button {
   display: inline-block;
   padding: 0.5rem 1rem;
   margin-top: 2rem;
+  margin-bottom: 1rem;
   font-weight: bold;
   font-size: 1.5rem;
   cursor: pointer;
@@ -31,8 +32,8 @@ button:hover {
 }
 
 .color {
-  height: 100px;
-  width: 100px;
+  flex: 1;
+  aspect-ratio: 1;
   margin: 0 0 1px;
 }
 
@@ -47,4 +48,11 @@ button:hover {
 
 .result {
   flex: 1;
+  max-width: 800px;
+}
+
+@media (max-width: 900px) {
+  .wrapper {
+    flex-direction: column;
+  }
 }
