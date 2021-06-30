@@ -1,30 +1,30 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`generates a palette filled with #000000 1`] = `
+exports[`generates a palette 1`] = `
 Array [
   Array [
-    "#000000",
-    "#000000",
-    "#000000",
-    "#000000",
-  ],
-  Array [
-    "#000000",
-    "#000000",
-    "#000000",
+    "#ff0000",
+    "#aa0000",
+    "#550000",
     "#000000",
   ],
   Array [
-    "#000000",
-    "#000000",
-    "#000000",
-    "#000000",
+    "#ff5555",
+    "#c65539",
+    "#8e551c",
+    "#555500",
   ],
   Array [
-    "#000000",
-    "#000000",
-    "#000000",
-    "#000000",
+    "#ffaaaa",
+    "#e3aa71",
+    "#c6aa39",
+    "#aaaa00",
+  ],
+  Array [
+    "#ffffff",
+    "#ffffaa",
+    "#ffff55",
+    "#ffff00",
   ],
 ]
 `;

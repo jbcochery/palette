@@ -97,83 +97,39 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(204, 204, 204);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(181, 181, 181);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(159, 159, 159);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(136, 136, 136);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(113, 113, 113);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(91, 91, 91);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(68, 68, 68);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(45, 45, 45);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-      </div>
-      <div
-        class="row"
-      >
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(23, 23, 23);"
         />
         <div
           class="color"
@@ -185,87 +141,43 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(210, 210, 210);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(189, 189, 190);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(168, 168, 169);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(146, 148, 149);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(125, 127, 129);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(104, 106, 108);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(83, 85, 88);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(61, 65, 68);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(40, 44, 47);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-      </div>
-      <div
-        class="row"
-      >
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(19, 23, 27);"
         />
       </div>
       <div
@@ -273,87 +185,43 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(215, 215, 215);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(195, 196, 197);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(176, 177, 179);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(156, 159, 161);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(136, 140, 143);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(117, 121, 125);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(97, 102, 107);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(77, 84, 89);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(58, 65, 71);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-      </div>
-      <div
-        class="row"
-      >
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(38, 46, 53);"
         />
       </div>
       <div
@@ -361,87 +229,43 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(221, 221, 221);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(203, 204, 205);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(185, 187, 190);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(166, 170, 174);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(148, 153, 158);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(130, 136, 143);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(112, 119, 127);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(93, 102, 111);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(75, 85, 96);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-      </div>
-      <div
-        class="row"
-      >
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
-        />
-        <div
-          class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(57, 68, 80);"
         />
       </div>
       <div
@@ -449,43 +273,43 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(227, 227, 227);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(210, 212, 214);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(193, 197, 200);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(177, 182, 187);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(160, 167, 173);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(143, 151, 160);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(126, 136, 146);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(110, 121, 133);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(93, 106, 119);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(76, 91, 106);"
         />
       </div>
       <div
@@ -493,43 +317,219 @@ exports[`App when the form is changed and submitted renders a palette 1`] = `
       >
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(232, 232, 232);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(217, 219, 221);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(202, 206, 210);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(186, 193, 199);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(171, 180, 188);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(156, 166, 177);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(141, 153, 166);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(125, 140, 155);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(110, 127, 144);"
         />
         <div
           class="color"
-          style="background-color: rgb(0, 0, 0);"
+          style="background-color: rgb(95, 114, 133);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(238, 238, 238);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(224, 227, 229);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(210, 216, 220);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(197, 204, 212);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(183, 193, 203);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(169, 182, 194);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(155, 171, 185);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(142, 159, 177);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(128, 148, 168);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(114, 137, 159);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(244, 244, 244);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(232, 235, 238);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(219, 225, 231);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(207, 216, 225);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(195, 206, 218);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(182, 197, 212);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(170, 187, 205);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(158, 178, 199);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(145, 168, 192);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(133, 159, 186);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(249, 249, 249);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(238, 242, 245);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(227, 234, 241);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(217, 227, 237);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(206, 219, 233);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(195, 212, 228);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(184, 204, 224);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(174, 197, 220);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(163, 189, 216);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(152, 182, 212);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(255, 255, 255);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(246, 249, 253);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(236, 244, 251);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(227, 238, 250);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(218, 233, 248);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(208, 227, 246);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(199, 222, 244);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(190, 216, 243);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(180, 211, 241);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(171, 205, 239);"
         />
       </div>
     </div>
