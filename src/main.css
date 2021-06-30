@@ -1,3 +1,50 @@
 body {
   font-family: "Roboto", sans-serif;
+  padding: 4rem;
+}
+
+label {
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  background: transparent;
+  border: 2px solid black;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+button:hover {
+  color: blue;
+  border-color: blue;
+}
+
+.row {
+  display: flex;
+  gap: 1px;
+}
+
+.color {
+  height: 100px;
+  width: 100px;
+  margin: 0 0 1px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.settings {
+  flex: 0;
+  min-width: 20rem;
+}
+
+.result {
+  flex: 1;
 }

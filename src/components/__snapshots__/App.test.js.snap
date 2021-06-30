@@ -1,11 +1,538 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders a title 1`] = `
+exports[`App renders a title and a form 1`] = `
 <div>
-  <div>
-    <h1>
-      Palette
-    </h1>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="settings"
+    >
+      <h1>
+        Palette 🎨
+      </h1>
+      <form>
+        <div>
+          <label
+            for="start"
+          >
+            First color
+          </label>
+          <input
+            id="start"
+            type="color"
+            value="#ff0000"
+          />
+        </div>
+        <div>
+          <label
+            for="end"
+          >
+            Second color
+          </label>
+          <input
+            id="end"
+            type="color"
+            value="#ffff00"
+          />
+        </div>
+        <button>
+          Draw
+        </button>
+      </form>
+    </div>
+    <div
+      class="result"
+    />
+  </div>
+</div>
+`;
+
+exports[`App when the form is changed and submitted renders a palette 1`] = `
+<div>
+  <div
+    class="wrapper"
+  >
+    <div
+      class="settings"
+    >
+      <h1>
+        Palette 🎨
+      </h1>
+      <form>
+        <div>
+          <label
+            for="start"
+          >
+            First color
+          </label>
+          <input
+            id="start"
+            type="color"
+            value="#cccccc"
+          />
+        </div>
+        <div>
+          <label
+            for="end"
+          >
+            Second color
+          </label>
+          <input
+            id="end"
+            type="color"
+            value="#abcdef"
+          />
+        </div>
+        <button>
+          Draw
+        </button>
+      </form>
+    </div>
+    <div
+      class="result"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+        <div
+          class="color"
+          style="background-color: rgb(0, 0, 0);"
+        />
+      </div>
+    </div>
   </div>
 </div>
 `;

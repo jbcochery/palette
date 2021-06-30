@@ -47,6 +47,9 @@
       "plugin:react/recommended",
       "prettier"
     ],
+    "rules": {
+      "react/prop-types": 0
+    },
     "env": {
       "browser": true,
       "jest": true,
