@@ -59,11 +59,9 @@ function Palette({ palette }) {
       {palette.map((row, x) => (
         <div className="row" key={x}>
           {row.map((color, y) => (
-            <div
-              className="color"
-              style={{ backgroundColor: color }}
-              key={y}
-            ></div>
+            <div className="color" style={{ backgroundColor: color }} key={y}>
+              <span className="color-label">{color}</span>
+            </div>
           ))}
         </div>
       ))}

@@ -35,6 +35,9 @@ button:hover {
   flex: 1;
   aspect-ratio: 1;
   margin: 0 0 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .wrapper {
@@ -55,4 +58,16 @@ button:hover {
   .wrapper {
     flex-direction: column;
   }
+}
+
+.color-label {
+  background: white;
+  display: inline-block;
+  padding: 0.25rem;
+  font-size: 0.75rem;
+  opacity: 0;
+}
+
+.color:hover .color-label {
+  opacity: 1;
 }
